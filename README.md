@@ -1,5 +1,6 @@
 # better-Duck-Spicetify
-No Pixelation and a Bigger Duck
+## No Pixelation and a Bigger Duck
+
 ```
 .player-controls .playback-progressbar::before {
     content: '';
